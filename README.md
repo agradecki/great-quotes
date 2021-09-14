@@ -1,5 +1,7 @@
 # great-quotes
 
+Multi-page SPA with React-Router created during the React course of Maximilian Schwarzmüller.
+
 # live-demo
 
 [Live demo]()
